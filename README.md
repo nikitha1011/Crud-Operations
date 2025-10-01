@@ -28,8 +28,8 @@ Method-override
 
 Clone the repository
 
-git clone https://github.com/your-username/quora-crud-app.git
-cd quora-crud-app
+git clone https://github.com/nikitha1011/Crud-Operations.git
+cd Crud-Operations
 
 
 Install dependencies
@@ -39,7 +39,7 @@ npm install
 
 Start the server
 
-node index.js
+nodemon index.js
 
 
 Open in browser
